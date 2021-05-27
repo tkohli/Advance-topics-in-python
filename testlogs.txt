@@ -1,0 +1,7 @@
+ERROR:root:There is an error in the program
+CRITICAL:root:There is a problem in the design
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-42-1efb4e8e3dcc>", line 4, in <module>
+    c = a/b
+ZeroDivisionError: division by zero
